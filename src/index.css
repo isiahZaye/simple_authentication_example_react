@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html {
+  background-color: red;
+  background-image: url("https://giordanos.com/wp-content/uploads/Hero-image_1210-v2.jpg");
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
